@@ -17,7 +17,7 @@ This project aims to build an end-to-end data engineering pipeline that extracts
 
 ## Architecture Diagram
 
-![Architecture Diagram](https://drive.google.com/file/d/1kDP_ujM_vp_rxEL9VV0PKuRIR85o09hx/view?usp=sharing)
+![Architecture Diagram](https://drive.google.com/file/d/1kDP_ujM_vp_rxEL9VV0PKuRIR85o09hx/view?usp=sharing/architecture.drawio)
 
 
 ## Tools and Technologies Used
