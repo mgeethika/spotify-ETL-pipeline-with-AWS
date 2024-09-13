@@ -17,7 +17,7 @@ This project aims to build an end-to-end data engineering pipeline that extracts
 
 ## Architecture Diagram
 
-![Architecture Diagram](architecture.drawio (1).png)
+![Architecture Diagram](https://github.com/mgeethika/spotify-ETL-pipeline-with-AWS/blob/main/architecture.drawio%20(1).png)
 
 
 ## Tools and Technologies Used
