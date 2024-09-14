@@ -10,10 +10,6 @@ This project aims to build an end-to-end data engineering pipeline that extracts
 - [Tools and Technologies Used](#tools-and-technologies-used)
 - [Project Workflow](#project-workflow)
 - [Data Sources](#data-sources)
-- [Methods](#methods)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Architecture Diagram
 
